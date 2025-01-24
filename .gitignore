@@ -1,2 +1,3 @@
-ign1.txt
-ign2.txt
+#ign1.txt
+#ign2.txt
+*.txt
